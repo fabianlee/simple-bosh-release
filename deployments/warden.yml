@@ -53,3 +53,4 @@ properties:
   webapp:
     admin: foo@bar.com
     servername: 10.244.1.2
+    greeting: Hello, world!
